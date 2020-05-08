@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1587337212 source:c:\users\danie\downloads\graphicskit\main.cpp
+	"graphics.hpp"
+	<cstdlib>
+	<iostream>
+	<vector>
+	<cmath>
+	<sstream>
+	<string>
+
+1488260528 c:\users\danie\downloads\graphicskit\include\graphics.hpp
+	<string>
+
+1588959524 source:c:\users\danie\documents\battleship\main.cpp
+	"gamemaster.hpp"
+
+1488260528 c:\users\danie\documents\battleship\include\graphics.hpp
+	<string>
+
+1588959103 c:\users\danie\documents\battleship\map.hpp
+	"graphics.hpp"
+	"ocean.hpp"
+
+1588959512 c:\users\danie\documents\battleship\ocean.hpp
+
+1588959422 source:c:\users\danie\documents\battleship\ocean.cpp
+	"graphics.hpp"
+	"ocean.hpp"
+
+1588963775 source:c:\users\danie\documents\battleship\map.cpp
+	"graphics.hpp"
+	"map.hpp"
+	<math.h>
+	<iostream>
+
+1588959823 c:\users\danie\documents\battleship\gamemaster.hpp
+	<vector>
+	"map.hpp"
+
+1588963548 source:c:\users\danie\documents\battleship\gamemaster.cpp
+	"gamemaster.hpp"
+	"map.hpp"
+	"graphics.hpp"
+
